@@ -21,3 +21,5 @@ orgs:
       t2:
         has_projects: true
         private: true
+      t3:
+        has_projects: true
